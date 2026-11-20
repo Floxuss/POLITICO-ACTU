@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Politico Actu — l'actualité politique française</title>
+  <meta name="description" content="Suivi quotidien de l'actualité politique française : Gouvernement, Assemblée, Sénat, Élysée, partis et élections, réuni depuis les principaux titres de la presse française.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="datetime" id="dateline"></div>
+    <a class="brand" href="/">Politico Actu</a>
+    <p class="tagline">Gouvernement, Parlement, Élysée, partis et campagnes — les dépêches des grands titres, réunies au fil de la journée.</p>
+    <nav class="topics" id="topics" aria-label="Thématiques">
+      <button class="topic is-active" data-topic="tous">Tout</button>
+      <button class="topic" data-topic="executif">Exécutif</button>
+      <button class="topic" data-topic="parlement">Parlement</button>
+      <button class="topic" data-topic="elections">Élections &amp; sondages</button>
+      <button class="topic" data-topic="partis">Partis</button>
+      <button class="topic" data-topic="europe">Europe &amp; International</button>
+    </nav>
+  </header>
+
+  <main class="page">
+    <aside class="rail">
+      <div class="search-box">
+        <label class="rail-title" for="search">Rechercher</label>
+        <input type="search" id="search" placeholder="un nom, un ministère…" autocomplete="off">
+      </div>
+      <section class="rail-block">
+        <h2 class="rail-title">Sources</h2>
+        <div id="source-filters" class="source-filters"></div>
+        <button class="reset" id="reset" hidden>Réinitialiser les filtres</button>
+      </section>
+      <section class="rail-block">
+        <h2 class="rail-title">État de la veille</h2>
+        <p class="meta-line" id="refresh-info">Chargement…</p>
+      </section>
+      <section class="rail-block">
+        <h2 class="rail-title">À propos</h2>
+        <p class="about">Cette page ne commente pas : elle liste. Les informations proviennent des rubriques politique des médias indiqués et appartiennent à leurs auteurs. Cliquez sur un titre pour lire l'article source.</p>
+      </section>
+    </aside>
+
+    <section class="feed" id="feed" aria-live="polite">
+      <div class="loading" id="loading">Le fil se charge…</div>
+      <noscript><p class="meta-line">Cette page nécessite JavaScript pour s'afficher.</p></noscript>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Politico Actu — veille non commerciale. Contenus © leurs rédactions respectives.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
