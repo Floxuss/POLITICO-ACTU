@@ -247,11 +247,22 @@ function updateRefreshInfo(data) {
   refreshInfoEl.textContent = `Mis à jour à ${timeFmt.format(when)} — ${data.total} articles.`;
 }
 
+async function fetchNews() {
+  try {
+    const res = await fetch(`data/news.json?t=${Date.now()}`, { cache: "no-cache" });
+    if (res.ok) return await res.json();
+    if (res.status !== 404) throw new Error(`HTTP ${res.status}`);
+  } catch (err) {
+    if (!(err instanceof TypeError)) throw err;
+  }
+  const res = await fetch("/api/news");
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.json();
+}
+
 async function load() {
   try {
-    const res = await fetch("/api/news");
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
+    const data = await fetchNews();
 
     state.items = data.items;
     state.failedSources = new Set(data.errored);

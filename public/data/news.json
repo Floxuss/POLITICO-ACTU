@@ -1,0 +1,833 @@
+{
+  "fetchedAt": "2026-11-20T10:20:49.753Z",
+  "total": 91,
+  "errored": [],
+  "counts": {
+    "lemonde": 20,
+    "figaro": 20,
+    "liberation": 11,
+    "franceinfo": 20,
+    "sudouest": 20
+  },
+  "items": [
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html#xto",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "DIRECT. Préfet soupçonné d'avoir renseigné le RN : \"Si les faits sont avérés, ils sont évidemment très graves\", déclare Laurent Nuñez, qui a convoqué Hugues Moutouh",
+      "url": "https://www.franceinfo.fr/societe/justice/direct-si-les-faits-sont-averes-ils-sont-evidemment-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-soupconne-d-avoir-transmis-des-informations-sensibles-au-rassemblement-national_8291756.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "La justice a perquisitionné le siège du Rassemblement national début novembre à la suite d'une information judiciaire ouverte au mois de juillet.",
+      "date": "2026-11-20T10:19:57.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/la-primaire-de-la-droite-est-elle-deja-morte-et-enterree-20261120_PSQIURS3FVFCZITJD4WYEDA37I/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "La primaire de la droite est-elle déjà morte et enterrée ?",
+      "url": "https://www.liberation.fr/politique/la-primaire-de-la-droite-est-elle-deja-morte-et-enterree-20261120_PSQIURS3FVFCZITJD4WYEDA37I/",
+      "snippet": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+      "date": "2026-11-20T10:01:15.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/elections/main-tendue-de-tondelier-a-melenchon-jadot-annonce-son-depart-des-ecologistes-20261120_UZTRMFUYAZHGZCDOXMPPCZW75M/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Main tendue de Tondelier à Mélenchon : Jadot annonce son départ des Ecologistes",
+      "url": "https://www.liberation.fr/politique/elections/main-tendue-de-tondelier-a-melenchon-jadot-annonce-son-depart-des-ecologistes-20261120_UZTRMFUYAZHGZCDOXMPPCZW75M/",
+      "snippet": "Le sénateur rallié à Raphaël Glucksmann, déjà suspendu du parti, a saisi l’occasion de la déclaration d’intention de la patronne du parti en faveur du candidat insoumis à la présidentielle pour couper les ponts, jeudi …",
+      "date": "2026-11-20T09:53:55.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/pourquoi-eric-ciotti-continue-a-cumuler-mairie-de-nice-et-assemblee-nationale-20261120_X6EJ2N6SNVEENC6KZM4OY2QCFA/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Pourquoi Eric Ciotti continue à cumuler mairie de Nice et Assemblée nationale",
+      "url": "https://www.liberation.fr/politique/pourquoi-eric-ciotti-continue-a-cumuler-mairie-de-nice-et-assemblee-nationale-20261120_X6EJ2N6SNVEENC6KZM4OY2QCFA/",
+      "snippet": "Grâce à un nouveau recours sur l’élection municipale qu’il a remportée, l’allié du RN peut continuer de siéger au Palais-Bourbon et de présider son petit groupe.",
+      "date": "2026-11-20T09:47:04.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-david-lisnard-promoteur-puis-torpilleur-de-la-primaire-de-la-droite-et-du-centre_6813615_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Présidentielle 2027 : David Lisnard, promoteur puis torpilleur de la primaire de la droite et du centre",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-david-lisnard-promoteur-puis-torpilleur-de-la-primaire-de-la-droite-et-du-centre_6813615_823448.html",
+      "snippet": "Le candidat Nouvelle Energie a été l’un des premiers, à droite, à défendre une primaire avec un large périmètre. Mais il est suspecté par les équipes de Gabriel Attal et de Bruno Retailleau de vouloir faire échouer le …",
+      "date": "2026-11-20T09:42:36.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/societe/justice/un-prefet-soupconne-d-avoir-renseigne-le-rn-est-convoque-au-ministere-de-l-interieur_8291963.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Un préfet soupçonné d'avoir renseigné le RN est convoqué au ministère de l'Intérieur",
+      "url": "https://www.franceinfo.fr/societe/justice/un-prefet-soupconne-d-avoir-renseigne-le-rn-est-convoque-au-ministere-de-l-interieur_8291963.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le préfet Hugues Moutouh, qui travaillait avant au ministère de l'Intérieur, est soupçonné d'avoir fait fuiter des documents confidentiels vers le Rassemblement national. Il est convoqué par Laurent Nuñez vendredi 20 …",
+      "date": "2026-11-20T09:41:40.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/gironde/bordeaux/pesticides-vignes-et-sante-les-parents-d-eleves-demandent-l-interdiction-des-epandages-a-moins-de-500-metres-des-ecoles-31593386.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Pesticides, vignes et santé : les parents d’élèves de Gironde et Charente demandent l’interdiction des épandages à moins de 500 mètres des écoles",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/pesticides-vignes-et-sante-les-parents-d-eleves-demandent-l-interdiction-des-epandages-a-moins-de-500-metres-des-ecoles-31593386.php",
+      "snippet": "Les représentants des parents d’élèves de Gironde et de Charente ont mis en demeure l’État d’interdire l’épandage de produits phytosanitaires dans une zone de 500 mètres autour des écoles. Cette démarche",
+      "date": "2026-11-20T09:39:18.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/front-national/perquisition-enquete-ouverte-prefet-mis-en-cause-ce-que-l-on-sait-des-soupcons-de-fuites-d-informations-dont-aurait-beneficie-le-rassemblement-national_8291804.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Perquisition, enquête ouverte, préfet mis en cause… Ce que l'on sait des soupçons de fuites d'informations dont aurait bénéficié le Rassemblement national",
+      "url": "https://www.franceinfo.fr/politique/front-national/perquisition-enquete-ouverte-prefet-mis-en-cause-ce-que-l-on-sait-des-soupcons-de-fuites-d-informations-dont-aurait-beneficie-le-rassemblement-national_8291804.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le parti d'extrême droite est soupçonné d'avoir bénéficié de fuites sur des affaires en cours, avec des informations normalement couvertes par le secret de l'enquête. La participation d'un préfet est étudiée, selon …",
+      "date": "2026-11-20T09:32:08.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/elections/il-y-a-dix-ans-une-primaire-de-la-droite-ou-rien-ne-sest-passe-comme-prevu-20261120_E46XPSYQZVGYLPFBEHUE4SZ5HY/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Il y a dix ans, une primaire de la droite où rien ne s’est passé comme prévu",
+      "url": "https://www.liberation.fr/politique/elections/il-y-a-dix-ans-une-primaire-de-la-droite-ou-rien-ne-sest-passe-comme-prevu-20261120_E46XPSYQZVGYLPFBEHUE4SZ5HY/",
+      "snippet": "A l’heure où Edouard Philippe refuse de participer à un départage de son camp, les souvenirs de la défaite de son mentor Alain Juppé en 2016 éclairent ces réticences.",
+      "date": "2026-11-20T09:27:44.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/justice/enquete-sur-des-fuites-vers-le-rn-si-les-faits-sont-averes-ils-sont-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-31593387.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Enquête sur des fuites vers le RN : « Si les faits sont avérés, ils sont très graves », Laurent Nuñez convoque le préfet Hugues Moutouh",
+      "url": "https://www.sudouest.fr/justice/enquete-sur-des-fuites-vers-le-rn-si-les-faits-sont-averes-ils-sont-tres-graves-laurent-nunez-convoque-le-prefet-hugues-moutouh-31593387.php",
+      "snippet": "Le ministre de l’Intérieur Laurent Nuñez a convoqué le préfet Hugues Moutouh, soupçonné d’être l’auteur de fuites d’informations confidentielles vers le RN. Les députés du parti d’extrême droite se disent",
+      "date": "2026-11-20T09:19:14.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/economie/article/2026/11/20/commerces-endommages-lors-des-manifestations-les-modalites-de-l-aide-pouvant-aller-jusqu-a-10-000-euros-publiees-au-journal-officiel_6813612_3234.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Commerces endommagés lors des manifestations : les modalités de l’aide pouvant aller jusqu’à 10 000 euros publiées au « Journal officiel »",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/20/commerces-endommages-lors-des-manifestations-les-modalites-de-l-aide-pouvant-aller-jusqu-a-10-000-euros-publiees-au-journal-officiel_6813612_3234.html",
+      "snippet": "Pour en bénéficier, les entreprises doivent faire leur demande sur la plateforme Démarche numérique. Une commission sera créée dans chaque région pour examiner les demandes et fixer le montant accordé à chaque …",
+      "date": "2026-11-20T09:05:01.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Au moins 6 milliards d'euros d'économies supplémentaires sont nécessaires pour boucler le budget 2027, affirme le ministre des Comptes publics",
+      "url": "https://www.franceinfo.fr/economie/budget/au-moins-6-milliards-d-euros-d-economies-supplementaires-sont-necessaires-pour-boucler-le-budget-2027-reconnait-le-ministre-des-comptes-publics_8291879.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le projet de loi de finances commence à être débattu au Sénat après son rejet à l'Assemblée nationale.",
+      "date": "2026-11-20T09:02:18.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/elections/il-parle-vrai-il-na-pas-fait-lena-dans-les-hauts-de-seine-les-partisans-de-david-lisnard-savourent-la-dynamique-20261120_CROXY6NPFFENTL24YZKE7OWH5A/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "«Il parle vrai, il n’a pas fait l’ENA» : dans les Hauts-de-Seine, les partisans de David Lisnard savourent la dynamique",
+      "url": "https://www.liberation.fr/politique/elections/il-parle-vrai-il-na-pas-fait-lena-dans-les-hauts-de-seine-les-partisans-de-david-lisnard-savourent-la-dynamique-20261120_CROXY6NPFFENTL24YZKE7OWH5A/",
+      "snippet": "Ils le trouvent neuf, direct, aiment son programme libéral sans être gênés par son côté populiste et ses clins d’œil à l’extrême droite. «Libération» a rencontré des adhérents au parti du maire de Cannes, Nouvelle …",
+      "date": "2026-11-20T09:00:00.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-neila-latrous-dans-l-heure-de-verite-comment-convaincre-les-jeunes_8290673.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "VIDEO. Gabriel Attal interrogé par Neïla Latrous dans \"L'Heure de vérité\" : comment convaincre les jeunes ?",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-neila-latrous-dans-l-heure-de-verite-comment-convaincre-les-jeunes_8290673.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Celui qui fut le plus jeune Premier ministre de la Ve République peut-il s'imposer comme le candidat des jeunes ? Dans \"L'Heure de vérité\", Gabriel Attal était interrogé le 19 novembre 2026 par Neïla Latrous, rédactrice …",
+      "date": "2026-11-20T08:58:31.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-benjamin-duhamel-dans-l-heure-de-verite-une-campagne-en-panne_8290634.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "VIDEO. Gabriel Attal interrogé par Benjamin Duhamel dans \"L'Heure de vérité\". Une campagne en panne ?",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-benjamin-duhamel-dans-l-heure-de-verite-une-campagne-en-panne_8290634.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le 19 novembre 2026, \"L'Heure de vérité\" recevait Gabriel Attal. Distancé dans les sondages, le chef du parti Renaissance va-t-il maintenir sa candidature à l'élection présidentielle ? Il répond aux questions de …",
+      "date": "2026-11-20T08:54:31.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-par-eugenie-bastie-dans-l-heure-de-verite-le-candidat-des-metropoles_8290655.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "VIDEO. Gabriel Attal interrogé par Eugénie Bastié dans \"L'Heure de vérité\". Le candidat des métropoles ?",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-par-eugenie-bastie-dans-l-heure-de-verite-le-candidat-des-metropoles_8290655.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Gabriel Attal était l'invité de l'émission \"L'Heure de vérité\" le 19 novembre 2026. Pour parler de son rapport à la France, le candidat Renaissance était interviewé par Eugénie Bastié, rédactrice en chef adjointe au …",
+      "date": "2026-11-20T08:51:00.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Fuites en provenance du ministère de l’intérieur vers le RN : des faits « extrêmement graves » s’ils sont avérés, juge Laurent Nuñez",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/20/fuites-en-provenance-du-ministere-de-l-interieur-vers-le-rn-des-faits-extremement-graves-s-ils-sont-averes-juge-laurent-nunez_6813604_3224.html",
+      "snippet": "La justice soupçonne des fuites d’éléments liés à des enquêtes en cours concernant le Rassemblement national. Des perquisitions ont été menées au siège du parti et au ministère de l’intérieur. Le préfet Hugues Moutouh …",
+      "date": "2026-11-20T08:46:19.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-thomas-porcher-dans-l-heure-de-verite-un-programme-economique-macroniste_8290661.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "VIDEO. Gabriel Attal interrogé par Thomas Porcher dans \"L'Heure de vérité\" : un programme économique macroniste ?",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-interroge-par-thomas-porcher-dans-l-heure-de-verite-un-programme-economique-macroniste_8290661.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Gabriel Attal, candidat Renaissance à l'élection présidentielle, était l'invité de \"L'Heure de vérité\" le 19 novembre 2026. Sur son programme économique, cet héritier du macronisme était interrogé par Thomas Porcher, …",
+      "date": "2026-11-20T08:45:56.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-dans-l-heure-de-verite-un-candidat-va-t-en-guerre_8290667.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "VIDEO. Gabriel Attal interrogé par Maryse Burgot dans \"L'Heure de vérité\" : un candidat va-t-en-guerre ?",
+      "url": "https://www.franceinfo.fr/replay-magazine/france-2/l-heure-de-verite/video-gabriel-attal-dans-l-heure-de-verite-un-candidat-va-t-en-guerre_8290667.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le 19 novembre 2026, Gabriel Attal est venu défendre dans \"L'Heure de vérité\" sa vision et son projet pour la France. Sur les questions de politique internationale, il était interrogé par Maryse Burgot, grand reporter à …",
+      "date": "2026-11-20T08:38:24.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/laurent-nunez-assure-avoir-decouvert-dans-la-presse-les-revelations-sur-lenquete-portant-sur-les-liens-entre-le-prefet-hugues-moutouh-et-le-rn-20261120_56FESHSULZENVGTM2XGI2LCLGU/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Laurent Nuñez assure avoir «découvert dans la presse» les révélations sur l’enquête portant sur les liens entre le préfet Hugues Moutouh et le RN",
+      "url": "https://www.liberation.fr/politique/laurent-nunez-assure-avoir-decouvert-dans-la-presse-les-revelations-sur-lenquete-portant-sur-les-liens-entre-le-prefet-hugues-moutouh-et-le-rn-20261120_56FESHSULZENVGTM2XGI2LCLGU/",
+      "snippet": "Invité de BFM vendredi 20 novembre, le ministre de l’Intérieur doit recevoir le haut fonctionnaire en poste dans le Loiret à 11 heures, au ministère de l’Intérieur.",
+      "date": "2026-11-20T08:33:30.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/gironde/bordeaux/bordeaux-metropole-stephane-delpeyrat-vincent-rend-sa-delegation-a-la-culture-premier-accroc-dans-la-nouvelle-cogestion-31593195.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Bordeaux Métropole : Stéphane Delpeyrat Vincent rend sa délégation à la culture, premier accroc dans la nouvelle cogestion",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/bordeaux-metropole-stephane-delpeyrat-vincent-rend-sa-delegation-a-la-culture-premier-accroc-dans-la-nouvelle-cogestion-31593195.php",
+      "snippet": "Le maire PS de Saint-Médard-en-Jalles renonce à sa délégation",
+      "date": "2026-11-20T08:23:21.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/encadrement-des-loyers-le-statu-quo-c-est-la-prolongation-de-l-experimentation-et-non-pas-l-ouverture-a-d-autres-villes-indique-vincent-jeanbrun-ministre-du-logement_8291831.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Encadrement des loyers : \"Le statu quo, c'est la prolongation de l'expérimentation\" et non pas l'ouverture à d'autres villes, indique Vincent Jeanbrun, ministre du Logement",
+      "url": "https://www.franceinfo.fr/politique/encadrement-des-loyers-le-statu-quo-c-est-la-prolongation-de-l-experimentation-et-non-pas-l-ouverture-a-d-autres-villes-indique-vincent-jeanbrun-ministre-du-logement_8291831.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Vincent Jeanbrun, ministre de la Ville et du Logement, était l'invité des \"4 Vérités\", vendredi 20 novembre. La prolongation pour deux ans de l'encadrement des loyers a été votée la veille. Ce dispositif s'applique à 70 …",
+      "date": "2026-11-20T08:20:55.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/perquisitions-au-siege-du-rn-presomption-de-legitime-defense-reforme-des-retraites-le-8h30-franceinfo-de-julien-odoul_8270117.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Perquisitions au siège du RN, présomption de légitime défense, réforme des retraites... Le 8h30 franceinfo de Julien Odoul",
+      "url": "https://www.franceinfo.fr/replay-radio/8h30-fauvelle-dely/perquisitions-au-siege-du-rn-presomption-de-legitime-defense-reforme-des-retraites-le-8h30-franceinfo-de-julien-odoul_8270117.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Julien Odoul, député de l’Yonne et porte-parole du Rassemblement national, est dans le 8h30 franceinfo.",
+      "date": "2026-11-20T08:20:01.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/politique/budget-2027-au-moins-6-milliards-d-euros-d-economies-supplementaires-seront-necessaires-estime-le-ministre-des-comptes-publics-david-amiel-31593166.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Budget 2027 : au moins 6 milliards d’euros d’économies supplémentaires seront nécessaires, estime le ministre des Comptes publics David Amiel",
+      "url": "https://www.sudouest.fr/politique/budget-2027-au-moins-6-milliards-d-euros-d-economies-supplementaires-seront-necessaires-estime-le-ministre-des-comptes-publics-david-amiel-31593166.php",
+      "snippet": "Le ministre des Comptes publics David Amiel estime que de nouveaux efforts financiers seront indispensables pour le budget 2027, au-delà des mesures déjà sur la table",
+      "date": "2026-11-20T08:09:03.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/front-national/des-rumeurs-et-des-accusations-sans-fondement-reagit-jean-philippe-tanguy-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-en-cours_8291828.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "\"Des rumeurs et des accusations sans fondement\", réagit Jean-Philippe Tanguy dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours",
+      "url": "https://www.franceinfo.fr/politique/front-national/des-rumeurs-et-des-accusations-sans-fondement-reagit-jean-philippe-tanguy-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-en-cours_8291828.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le député RN de la Somme s'exprime sur France Inter après les accusations visant Huges Moutouh d'avoir transmis des informations sensibles au Rassemblement national.",
+      "date": "2026-11-20T08:04:55.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Présidentielle 2027 : Dominique de Villepin, les coulisses d’une entrée en campagne imminente",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/presidentielle-2027-dominique-de-villepin-les-coulisses-d-une-entree-en-campagne-imminente-20261118",
+      "snippet": "Sur le point d’officialiser sa candidature, l’ancien premier ministre a opéré un rafraîchissement politique, cherchant à séduire à la fois les électeurs de gauche et de droite.",
+      "date": "2026-11-20T08:04:44.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/front-national/julien-odoul-appelle-a-preserver-le-secret-de-l-instruction-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-et-denonce-l-instrumentalisation-par-jean-luc-melenchon_8291837",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Julien Odoul appelle à \"préserver\" le secret de l'instruction dans l'affaire du préfet soupçonné d'avoir renseigné le RN sur des affaires en cours",
+      "url": "https://www.franceinfo.fr/politique/front-national/julien-odoul-appelle-a-preserver-le-secret-de-l-instruction-dans-l-affaire-du-prefet-soupconne-d-avoir-renseigne-le-rn-sur-des-affaires-et-denonce-l-instrumentalisation-par-jean-luc-melenchon_8291837.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Invité du 8h30 de franceinfo, le porte-parole du Rassemblement national répond aux accusations visant le préfet du Loiret, soupçonné d'avoir transmis au Rassemblement national des informations sensibles sur des affaires …",
+      "date": "2026-11-20T07:52:58.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqu-a-fevrier-pour-convaincre_6813599_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Présidentielle 2027 : François Hollande laisse à Raphaël Glucksmann jusqu’à février pour montrer qu’il est capable de convaincre",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-francois-hollande-laisse-a-raphael-glucksmann-jusqu-a-fevrier-pour-convaincre_6813599_823448.html",
+      "snippet": "L’ancien président (Parti socialiste), qui avait renoncé à se représenter en 2017 compte tenu de sa forte impopularité, continue d’entretenir le doute sur une éventuelle candidature.",
+      "date": "2026-11-20T07:19:54.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-presidentielle-2027-l-eternel-rendez-vous-manque-des-ecologistes-avec-l-elysee_8270120.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Édito. Présidentielle 2027, l’éternel rendez-vous manqué des écologistes avec l’Élysée",
+      "url": "https://www.franceinfo.fr/replay-radio/l-edito-politique/edito-presidentielle-2027-l-eternel-rendez-vous-manque-des-ecologistes-avec-l-elysee_8270120.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Marine Tondelier s'est dite prête à négocier une coalition autour de Jean-Luc Mélenchon pour la présidentielle de 2027. Un nouveau retrait qui illustre les difficultés historiques des écologistes à s'imposer dans …",
+      "date": "2026-11-20T07:10:02.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/politique/francois-hollande/presidentielle-2027-francois-hollande-sera-t-il-candidat-l-ex-chef-de-l-etat-laisse-a-raphael-glucksmann-jusqu-a-fevrier-pour-convaincre-31592975.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Présidentielle 2027 : François Hollande sera-t-il candidat ? L’ex-chef de l’État laisse à Raphaël Glucksmann jusqu’à février pour convaincre",
+      "url": "https://www.sudouest.fr/politique/francois-hollande/presidentielle-2027-francois-hollande-sera-t-il-candidat-l-ex-chef-de-l-etat-laisse-a-raphael-glucksmann-jusqu-a-fevrier-pour-convaincre-31592975.php",
+      "snippet": "L’ancien chef de l’État François Hollande décale son choix à début février, attendant de Raphaël Glucksmann qu’il prouve sa capacité à l’emporter au-delà de son camp",
+      "date": "2026-11-20T07:06:37.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/gironde/merignac/merignac-apres-des-annees-a-l-arret-le-projet-de-l-ilot-casino-enfin-relance-31584675.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Mérignac : après des années à l’arrêt, le projet de l’îlot Casino enfin relancé",
+      "url": "https://www.sudouest.fr/gironde/merignac/merignac-apres-des-annees-a-l-arret-le-projet-de-l-ilot-casino-enfin-relance-31584675.php",
+      "snippet": "Le chantier de ce projet emblématique du cœur de ville de Mérignac est remis sur les rails. Les travaux devraient démarrer au premier semestre 2027. La longue parenthèse urbaine s’apprête à se refermer",
+      "date": "2026-11-20T06:45:00.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/newsletter-perigueux/agglomeration-de-perigueux-une-nouvelle-passerelle-pietonne-et-cycliste-enjambera-l-isle-au-niveau-du-silot-31590518.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Agglomération de Périgueux : une nouvelle passerelle piétonne et cycliste enjambera l’Isle au niveau du Sîlot",
+      "url": "https://www.sudouest.fr/newsletter-perigueux/agglomeration-de-perigueux-une-nouvelle-passerelle-pietonne-et-cycliste-enjambera-l-isle-au-niveau-du-silot-31590518.php",
+      "snippet": "Le projet a été voté à l’unanimité par les élus du Grand Périgueux, jeudi 19 novembre. L’ouvrage devrait être mis en service début 2029",
+      "date": "2026-11-20T06:45:00.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/charente-maritime/aytre/aytre-le-bassin-des-galiotes-s-apprete-a-accueillir-1-500-jeunes-pour-le-cross-departemental-de-l-unss-31573885.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Aytré : le bassin des Galiotes s’apprête à accueillir 1 500 jeunes pour le cross départemental de l’UNSS",
+      "url": "https://www.sudouest.fr/charente-maritime/aytre/aytre-le-bassin-des-galiotes-s-apprete-a-accueillir-1-500-jeunes-pour-le-cross-departemental-de-l-unss-31573885.php",
+      "snippet": "Le grand rendez-vous du sport scolaire en Charente-Maritime fait son retour ce mercredi 25 novembre sur le site aytrésien, entraînant des restrictions temporaires de circulation autour du bassin",
+      "date": "2026-11-20T06:33:00.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Comment David Lisnard, le patron des maires de France, mène une double campagne, présidentielle et pour l’AMF",
+      "url": "https://www.liberation.fr/politique/comment-david-lisnard-le-patron-des-maires-de-france-mene-une-double-campagne-presidentielle-et-pour-lamf-20261120_2ZVVCQSKEFGJZKOEMDV6QIQSCE/",
+      "snippet": "Le maire de Cannes compte être reconduit pour un nouveau mandat, en début de semaine prochaine, à l’occasion du Congrès des maires de France. Mais ses déclarations clivantes et sa proximité avec l’extrême droite …",
+      "date": "2026-11-20T06:00:00.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-vives-tensions-chez-les-ecologistes-apres-la-main-tendue-de-tondelier-a-melenchon-jadot-et-iordanoff-quittent-le-parti-31592793.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Présidentielle 2027 : vives tensions chez les Écologistes après la main tendue de Tondelier à Mélenchon, Jadot et Iordanoff quittent le parti",
+      "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-vives-tensions-chez-les-ecologistes-apres-la-main-tendue-de-tondelier-a-melenchon-jadot-et-iordanoff-quittent-le-parti-31592793.php",
+      "snippet": "La main tendue de Marine Tondelier au candidat de La France insoumise provoque une crise majeure et des départs en série au sein du parti écologiste",
+      "date": "2026-11-20T05:56:14.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/justice/presomption-d-usage-legitime-des-armes-par-les-forces-de-l-ordre-le-senat-se-fracture-le-vote-repousse-a-ce-vendredi-31592765.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Présomption d’usage légitime des armes par les forces de l’ordre : le Sénat se fracture, le vote repoussé à ce vendredi",
+      "url": "https://www.sudouest.fr/justice/presomption-d-usage-legitime-des-armes-par-les-forces-de-l-ordre-le-senat-se-fracture-le-vote-repousse-a-ce-vendredi-31592765.php",
+      "snippet": "L’instauration d’une présomption d’usage légitime des armes par les forces de l’ordre a suscité de vifs débats jeudi au Sénat, où la gauche est parvenue à repousser le vote",
+      "date": "2026-11-20T05:42:18.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/a-suivre-alban-mikoczy-melenchon-les-coulisses-de-son-diner-avec-des-patrons_8291672.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "A suivre Alban Mikoczy : Mélenchon, les coulisses de son dîner avec des patrons",
+      "url": "https://www.franceinfo.fr/politique/a-suivre-alban-mikoczy-melenchon-les-coulisses-de-son-diner-avec-des-patrons_8291672.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Dans cette première partie, Alban Mikoczy et ses invités reviennent, jeudi 19 novembre sur le dîner entre Jean-Luc Mélenchon et des grands patrons qui s'est tenu quelques jours plus tôt. Une séquence à retrouver dans …",
+      "date": "2026-11-20T05:35:20.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/politique/on-a-reussi-a-tenir-il-faut-peut-etre-se-poser-la-question-a-bordeaux-metropole-le-levier-des-impots-pour-sortir-de-la-spirale-du-surendettement-31589866.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "« On a réussi à tenir, il faut peut-être se poser la question » : à Bordeaux Métropole, le levier des impôts pour sortir de la spirale du surendettement ?",
+      "url": "https://www.sudouest.fr/politique/on-a-reussi-a-tenir-il-faut-peut-etre-se-poser-la-question-a-bordeaux-metropole-le-levier-des-impots-pour-sortir-de-la-spirale-du-surendettement-31589866.php",
+      "snippet": "La majorité de droite et du centre n’en a pas dit un mot mais, au cours d’un conseil « exceptionnel » consacré à la dégradation des finances, l’opposition écologiste a évoqué le recours à l’impôt, notamment",
+      "date": "2026-11-20T05:30:00.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/redaction/le-dessin-du-jour/le-dessin-du-vendredi-20-novembre-elections-tondelier-soutient-lfi-31590750.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Le dessin du vendredi 20 novembre : élections, Tondelier soutient LFI",
+      "url": "https://www.sudouest.fr/redaction/le-dessin-du-jour/le-dessin-du-vendredi-20-novembre-elections-tondelier-soutient-lfi-31590750.php",
+      "snippet": "Retrouvez chaque jour l’actualité croquée par notre dessinateur Urbs",
+      "date": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/tondelier-se-tourne-vers-melenchon-loccasion-pour-raphael-glucksmann-de-reunir-les-ecolos-realos-20261120_SZ3FRFXXDBFCBEHORYMBLQ3HSE/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Tondelier se tourne vers Mélenchon : l’occasion pour Raphaël Glucksmann de réunir les «écolos-réalos»",
+      "url": "https://www.liberation.fr/politique/tondelier-se-tourne-vers-melenchon-loccasion-pour-raphael-glucksmann-de-reunir-les-ecolos-realos-20261120_SZ3FRFXXDBFCBEHORYMBLQ3HSE/",
+      "snippet": "Le candidat du PS et de Place publique entend profiter du rapprochement de la patronne des verts avec LFI pour ramener à lui les écolos hostiles au tribun insoumis, mais aussi ceux qui avaient choisi Macron et …",
+      "date": "2026-11-20T04:31:00.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/idees/article/2026/11/20/jean-luc-moudenc-maire-de-toulouse-gabriel-attal-david-lisnard-edouard-philippe-et-bruno-retailleau-de-vous-quatre-il-n-en-faudra-qu-un-comment-faire_6813555_3232.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Jean-Luc Moudenc, maire de Toulouse : « Gabriel Attal, David Lisnard, Edouard Philippe et Bruno Retailleau, de vous quatre, il n’en faudra qu’un. Comment faire ? »",
+      "url": "https://www.lemonde.fr/idees/article/2026/11/20/jean-luc-moudenc-maire-de-toulouse-gabriel-attal-david-lisnard-edouard-philippe-et-bruno-retailleau-de-vous-quatre-il-n-en-faudra-qu-un-comment-faire_6813555_3232.html",
+      "snippet": "L’élu exhorte, dans une tribune au « Monde », les quatre principaux candidats de la droite et du centre à la présidentielle à se parler pour établir leurs convergences communes et fondamentales, sous peine d’un échec …",
+      "date": "2026-11-20T04:30:02.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/jean-luc-melenchon-suscite-l-engouement-chez-les-18-24-ans-inquiets-des-crises-sociale-et-climatique-il-n-y-a-pas-d-autre-candidat-pour-lequel-cela-vaille-la-peine-de-voter_6813553_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Jean-Luc Mélenchon suscite l’engouement chez les 18-24 ans, inquiets des crises sociale et climatique : « Il n’y a pas d’autre candidat pour lequel cela vaille la peine de voter »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/jean-luc-melenchon-suscite-l-engouement-chez-les-18-24-ans-inquiets-des-crises-sociale-et-climatique-il-n-y-a-pas-d-autre-candidat-pour-lequel-cela-vaille-la-peine-de-voter_6813553_823448.html",
+      "snippet": "Entre aspiration à la radicalité et désir de changement, les jeunes de 18 à 24 ans sont nombreux à afficher leur soutien au programme de La France insoumise et à déclarer vouloir voter pour son candidat lors de …",
+      "date": "2026-11-20T04:15:11.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/podcasts/article/2026/11/20/droit-de-manifester-notre-etat-de-droit-est-il-menace_6813551_5463015.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Droit de manifester : notre Etat de droit est-il menacé ?",
+      "url": "https://www.lemonde.fr/podcasts/article/2026/11/20/droit-de-manifester-notre-etat-de-droit-est-il-menace_6813551_5463015.html",
+      "snippet": "Interdictions de manifester, couvre-feux, assignations à résidence… Depuis plusieurs semaines, les défenseurs des libertés fondamentales dénoncent l’arsenal répressif déployé par le gouvernement en pleine crise sociale. …",
+      "date": "2026-11-20T04:00:30.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/a-l-evidence-ce-projet-est-un-echec-dix-ans-apres-sa-rehabilitation-l-agonie-du-quartier-rosa-parks-mine-par-le-crack_6813549_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "« A l’évidence, ce projet est un échec » : à Paris, l’agonie du quartier Rosa-Parks miné par le crack, dix ans après sa réhabilitation",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-l-evidence-ce-projet-est-un-echec-dix-ans-apres-sa-rehabilitation-l-agonie-du-quartier-rosa-parks-mine-par-le-crack_6813549_823448.html",
+      "snippet": "Rénovée en 2016, la zone entourant la gare de RER et le canal Saint-Denis dans le 19ᵉ arrondissement à Paris connaît une lente dévitalisation, gangrenée par la drogue dérivée de la cocaïne. Subissant vols et …",
+      "date": "2026-11-20T04:00:07.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Présidentielle 2027 : le PS stoppe les discussions avec Les Ecologistes après le rapprochement entre Marine Tondelier et Jean-Luc Mélenchon",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/presidentielle-2027-le-parti-socialiste-stoppe-les-discussions-avec-les-ecologistes-apres-le-ralliement-de-tondelier-a-melenchon_6813548_823448.html",
+      "snippet": "Raphaël Glucksmann, le candidat du Parti socialiste et de Place publique, a accusé, jeudi 19 novembre, la secrétaire nationale des Ecologistes d’avoir « tourné le dos » à la « tradition profondément pro-européenne » de …",
+      "date": "2026-11-20T04:00:07.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Au Sénat, le vote sur la présomption de légitime défense des forces de l’ordre reporté à vendredi",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/le-vote-sur-la-presomption-de-legitime-defense-des-forces-de-l-ordre-repousse-a-vendredi-au-senat_6813482_823448.html",
+      "snippet": "Cette loi soutenue par le gouvernement et le RN mais contestée par la gauche permettrait aux policiers et gendarmes de ne plus systématiquement être mis en cause ou placés en garde à vue en cas d’usage d’une arme.",
+      "date": "2026-11-20T01:00:55.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Vie chère en outre-mer : l’Assemblée nationale vote une « petite avancée »",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/les-deputes-votent-une-petite-avancee-contre-la-vie-chere-en-outre-mer_6813481_823448.html",
+      "snippet": "La proposition de loi portée par le sénateur Victorin Lurel et le député Christian Baptiste a été adoptée à l’unanimité à l’Assemblée nationale jeudi, en attendant le grand texte promis par le gouvernement.",
+      "date": "2026-11-20T00:08:12.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Emmanuel Macron va rencontrer, à Paris, Kamala Harris, possible candidate démocrate à l’élection américaine de 2028",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/20/a-paris-emmanuel-macron-va-rencontrer-kamala-harris-possible-candidate-democrate-a-l-election-americaine-de-2028_6813448_823448.html",
+      "snippet": "Le président français va, selon son entourage, recevoir l’ancienne vice-présidente des Etats-Unis « pour un bref entretien de courtoisie en présence de son époux », Doug Emhoff, « comme il lui arrive de le faire à la …",
+      "date": "2026-11-20T00:03:49.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Le procès de l’explosion de la rue de Trévise met au jour un fonctionnement informel et peu rigoureux des services de la Mairie de Paris",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/20/le-proces-de-l-explosion-de-la-rue-de-trevise-met-au-jour-un-fonctionnement-informel-et-peu-rigoureux-des-services-de-la-mairie-de-paris_6813387_3224.html",
+      "snippet": "Les auditions des responsables des services de la voirie et de la propreté et de l’eau ont révélé des lacunes de traçabilité dans l’administration et une absence de culture de l’écrit pour rendre compte des …",
+      "date": "2026-11-19T23:10:07.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/19/yannick-jadot-et-jeremie-iordanoff-quittent-les-ecologistes-apres-l-approche-de-marine-tondelier-vers-jean-luc-melenchon-pour-la-presidentielle_6813385_6205049.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Présidentielle : Yannick Jadot et Jérémie Iordanoff quittent Les Ecologistes, en réaction à la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/19/yannick-jadot-et-jeremie-iordanoff-quittent-les-ecologistes-apres-l-approche-de-marine-tondelier-vers-jean-luc-melenchon-pour-la-presidentielle_6813385_6205049.html",
+      "snippet": "L’ex-candidat écologiste à la présidentielle de 2022 qualifie de « trahison » l’annonce de la cheffe du parti qui a ouvert la porte, mercredi soir, à un soutien à la candidature du leader LFI pour le scrutin de 2027.",
+      "date": "2026-11-19T22:55:25.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Primaire, racisme, référendums, IA… Ce qu'il faut retenir de l'interview de Gabriel Attal dans l'émission \"L'Heure de vérité\" sur France 2",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/primaire-racisme-referendums-ia-ce-qu-il-faut-retenir-de-l-interview-de-gabriel-attal-dans-l-emission-l-heure-de-verite-sur-france-2_8290544.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le candidat Renaissance à la présidentielle était l'invité jeudi de l'émission politique de France 2. Voici les passages marquants à retenir de cette interview de plus de deux heures.",
+      "date": "2026-11-19T22:46:00.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-les-francais-a-ce-stade-de-la-campagne_8290766.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Présidentielle 2027 : Gabriel Attal admet qu'il n'a \"pas convaincu\" les Français à \"ce stade\" de la campagne",
+      "url": "https://www.franceinfo.fr/politique/gabriel-attal/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-les-francais-a-ce-stade-de-la-campagne_8290766.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Le candidat Renaissance à la présidentielle était l'invité de \"L'Heure de Vérité\", jeudi, sur France 2.",
+      "date": "2026-11-19T22:43:11.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Yannick Jadot quitte Les Ecologistes après la main tendue de Marine Tondelier à Jean-Luc Mélenchon",
+      "url": "https://www.franceinfo.fr/politique/yannick-jadot/yannick-jadot-quitte-les-ecologistes-apres-la-main-tendue-de-marine-tondelier-a-jean-luc-melenchon_8290748.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "\"Pendant des années, j’ai porté ce mouvement politique, aujourd’hui c’est un fiasco, mais ma famille politique c’est l’écologie politique, incontestablement\", a déclaré Yannick Jadot.",
+      "date": "2026-11-19T22:16:18.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/politique/un-nouveau-groupe-cree-autour-de-clement-bijou-au-sein-de-l-agglomeration-du-grand-perigueux-31590922.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Un nouveau groupe créé autour de Clément Bijou au sein de l’Agglomération du Grand Périgueux",
+      "url": "https://www.sudouest.fr/politique/un-nouveau-groupe-cree-autour-de-clement-bijou-au-sein-de-l-agglomeration-du-grand-perigueux-31590922.php",
+      "snippet": "Dans une déclaration policée, le maire socialiste de Val-de-Louyre-et-Caudeau s’est justifié par le souhait de « contribuer à l’élaboration des décisions »",
+      "date": "2026-11-19T21:35:41.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "La Guadeloupe placée en « état d’alerte sécheresse » en fin de saison des pluies",
+      "url": "https://www.lemonde.fr/planete/article/2026/11/19/la-guadeloupe-placee-en-etat-d-alerte-secheresse-en-fin-de-saison-des-pluies_6813383_3244.html",
+      "snippet": "Le département français a connu un trimestre de juillet, août et septembre parmi les plus secs et chauds depuis 1991, selon Météo-France. La préfecture appelle l’ensemble des citoyens au « civisme » en réduisant leur …",
+      "date": "2026-11-19T21:32:31.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/politique/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-a-ce-stade-de-la-campagne-31591266.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Présidentielle 2027 : Gabriel Attal admet qu’il n’a « pas convaincu » à « ce stade » de la campagne",
+      "url": "https://www.sudouest.fr/politique/presidentielle-2027-gabriel-attal-admet-qu-il-n-a-pas-convaincu-a-ce-stade-de-la-campagne-31591266.php",
+      "snippet": "À la traîne dans les sondages, le candidat de Renaissance veut éviter un second tour entre Marine Le Pen et Jean-Luc Mélenchon et continue de promouvoir une primaire de la droite et du centre",
+      "date": "2026-11-19T21:27:05.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/elections/doudounes-sans-manches-et-crise-du-logement-face-aux-professionnels-du-batiment-les-candidats-a-la-presidentielle-sen-prennent-aux-normes-20261119_DRILGFCTUBCLZJQNH52BBJBQ74/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Doudounes sans manches et crise du logement... Face aux professionnels du bâtiment, les candidats à la présidentielle s’en prennent aux normes",
+      "url": "https://www.liberation.fr/politique/elections/doudounes-sans-manches-et-crise-du-logement-face-aux-professionnels-du-batiment-les-candidats-a-la-presidentielle-sen-prennent-aux-normes-20261119_DRILGFCTUBCLZJQNH52BBJBQ74/",
+      "snippet": "Sept des principaux prétendants à l’Elysée ont répondu ce jeudi 19 novembre aux questions du secteur de la construction, un grand oral qui a tourné, comme les programmes les plus à droite, autour de la question des …",
+      "date": "2026-11-19T21:21:07.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-le-president-du-senat-gerard-larcher-a-demande-a-sebastien-lecornu-d-avancer-la-date-de-l-election_6813382_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Présidentielle 2027 : le président du Sénat, Gérard Larcher, a demandé à Sébastien Lecornu d’avancer la date de l’élection",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/19/presidentielle-2027-le-president-du-senat-gerard-larcher-a-demande-a-sebastien-lecornu-d-avancer-la-date-de-l-election_6813382_823448.html",
+      "snippet": "Les dates entérinées le 1ᵉʳ juillet par l’exécutif prévoient un premier tour le 18 avril et un second tour le 2 mai, au lendemain des défilés du 1ᵉʳ-Mai. Cela fait craindre à M. Larcher, comme à plusieurs candidats, un …",
+      "date": "2026-11-19T21:17:21.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/marine-tondelier/marine-tondelier-divise-la-gauche-apres-sa-declaration-sur-jean-luc-melenchon-l-insoumis-peut-il-modifier-son-programme-pour-une-alliance-avec-les-ecologistes_8290712.html#xtor=RSS-3-%5Bpolitique%5",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Marine Tondelier divise la gauche après sa déclaration sur Jean-Luc Mélenchon : l'Insoumis peut-il modifier son programme pour une alliance avec les Écologistes ?",
+      "url": "https://www.franceinfo.fr/politique/marine-tondelier/marine-tondelier-divise-la-gauche-apres-sa-declaration-sur-jean-luc-melenchon-l-insoumis-peut-il-modifier-son-programme-pour-une-alliance-avec-les-ecologistes_8290712.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "Sur le plateau du \"20H\" de France 2, mercredi soir, Marine Tondelier s’est dite prête à travailler à une coalition autour de Jean-Luc Mélenchon. Une annonce qui divise les Écologistes et fait bondir Raphaël Glucksmann. …",
+      "date": "2026-11-19T21:13:32.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-l-alliance-avec-marine-tondelier-devrait-pouvoir-se-faire-estime-jean-luc-melenchon-31591181.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Présidentielle 2027 : l’alliance avec Marine Tondelier « devrait pouvoir se faire », estime Jean-Luc Mélenchon",
+      "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-l-alliance-avec-marine-tondelier-devrait-pouvoir-se-faire-estime-jean-luc-melenchon-31591181.php",
+      "snippet": "Après les déclarations de la candidate des Écologistes se disant prête à travailler à une coalition, le leader de La France insoumise estime que l’accord devrait pouvoir se faire",
+      "date": "2026-11-19T21:02:31.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/societe/article/2026/11/19/enquete-sur-des-fuites-vers-le-rn-le-prefet-hugues-moutouh-convoque-par-laurent-nunez-vendredi_6813380_3224.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Enquête sur des fuites vers le RN : le préfet Hugues Moutouh convoqué par Laurent Nuñez vendredi",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/19/enquete-sur-des-fuites-vers-le-rn-le-prefet-hugues-moutouh-convoque-par-laurent-nunez-vendredi_6813380_3224.html",
+      "snippet": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti, notamment celle …",
+      "date": "2026-11-19T21:01:10.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/elections/presidentielle-2027-lalliance-avec-marine-tondelier-devrait-pouvoir-se-faire-estime-melenchon-20261119_ER7TVKBPSZAYRLDDPPJDN2O52U/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "Présidentielle 2027 : l’alliance avec Marine Tondelier «devrait pouvoir se faire», estime Mélenchon",
+      "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-lalliance-avec-marine-tondelier-devrait-pouvoir-se-faire-estime-melenchon-20261119_ER7TVKBPSZAYRLDDPPJDN2O52U/",
+      "snippet": "Si le leader des insoumis dit ce jeudi 19 novembre auprès de RTL et de l’AFP se réjouir d’une «bonne nouvelle», une «prudente réserve» est de mise : ce rapprochement doit encore être confirmé par les adhérents …",
+      "date": "2026-11-19T20:58:23.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-pourquoi-le-president-du-senat-gerard-larcher-demande-officiellement-d-avancer-la-date-de-l-election-de-l-election-31590981.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Présidentielle 2027 : pourquoi le président du Sénat Gérard Larcher demande d’avancer la date de l’élection",
+      "url": "https://www.sudouest.fr/elections/presidentielle/presidentielle-2027-pourquoi-le-president-du-senat-gerard-larcher-demande-officiellement-d-avancer-la-date-de-l-election-de-l-election-31590981.php",
+      "snippet": "Le président du Sénat souhaite modifier le calendrier du scrutin pour éviter que le second tour ne se déroule au lendemain des défilés du 1er-Mai, une demande partagée par plusieurs forces politiques",
+      "date": "2026-11-19T20:41:17.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/politique/article/2026/11/19/david-habib-figure-de-l-assemblee-nationale-et-de-la-social-democratie-meurt-brutalement_6813379_823448.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "David Habib, figure de l’Assemblée nationale et de la social-démocratie, meurt brutalement",
+      "url": "https://www.lemonde.fr/politique/article/2026/11/19/david-habib-figure-de-l-assemblee-nationale-et-de-la-social-democratie-meurt-brutalement_6813379_823448.html",
+      "snippet": "Longtemps, le député des Pyrénées-Atlantiques avait siégé au sein du groupe socialiste avant de devenir vice-président de l’Assemblée nationale en 2019 puis de rejoindre le groupe Libertés, indépendants, outre-mer et …",
+      "date": "2026-11-19T20:35:44.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/lot-et-garonne/pont-du-casse/la-neutralite-carbone-passe-par-la-plantation-place-a-la-journee-de-l-arbre-au-jardin-darel-aux-portes-d-agen-31583160.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "« La neutralité carbone passe par la plantation » : place à la Journée de l’arbre au jardin de Darel, aux portes d’Agen",
+      "url": "https://www.sudouest.fr/lot-et-garonne/pont-du-casse/la-neutralite-carbone-passe-par-la-plantation-place-a-la-journee-de-l-arbre-au-jardin-darel-aux-portes-d-agen-31583160.php",
+      "snippet": "Dimanche 22 novembre, le jardin botanique de Darel, à Pont-du-Casse, ouvre ses portes pour la 4e Journée de l’arbre et de la biodiversité",
+      "date": "2026-11-19T20:30:00.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/gironde/bordeaux/colere-des-lyceens-les-auteurs-presumes-du-saccage-et-de-l-incendie-du-lycee-des-iris-de-floirac-interpelles-31586954.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Colère des lycéens : les auteurs présumés du saccage et de l’incendie du lycée des Iris de Lormont interpellés",
+      "url": "https://www.sudouest.fr/gironde/bordeaux/colere-des-lyceens-les-auteurs-presumes-du-saccage-et-de-l-incendie-du-lycee-des-iris-de-floirac-interpelles-31586954.php",
+      "snippet": "Le 8 octobre, une trentaine de casseurs ont pénétré dans l’enceinte de l’établissement et saccagé cinq salles avant de mettre le feu. Quatre suspects ont été interpellés par la police",
+      "date": "2026-11-19T20:09:47.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/charente-maritime/saintes/saintes-grandes-rives-une-camera-pour-chasser-les-depots-sauvages-pres-des-dechetteries-31583964.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "Saintes Grandes Rives : une caméra pour chasser les dépôts sauvages près des déchetteries",
+      "url": "https://www.sudouest.fr/charente-maritime/saintes/saintes-grandes-rives-une-camera-pour-chasser-les-depots-sauvages-pres-des-dechetteries-31583964.php",
+      "snippet": "Confrontée à des amas de déchets aux abords de ses déchetteries, l’Agglomération a investi dans une caméra mobile pour identifier les contrevenants. Elle va s’appuyer sur la Ville de Saintes, qui utilise",
+      "date": "2026-11-19T20:04:57.000Z"
+    },
+    {
+      "id": "sudouest:https://www.sudouest.fr/dordogne/il-fait-tout-de-son-cote-apres-huit-mois-de-mandat-10-elus-demissionnent-dans-cette-commune-de-dordogne-31584139.php",
+      "source": "sudouest",
+      "sourceName": "Sud Ouest",
+      "title": "« Il fait tout de son côté » : après huit mois de mandat, 10 élus démissionnent dans cette commune de Dordogne",
+      "url": "https://www.sudouest.fr/dordogne/il-fait-tout-de-son-cote-apres-huit-mois-de-mandat-10-elus-demissionnent-dans-cette-commune-de-dordogne-31584139.php",
+      "snippet": "Une nouvelle élection devrait être organisée en début d’année alors que les élus restant en poste gèrent les affaires courantes",
+      "date": "2026-11-19T20:00:39.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Présidentielle 2027 : les créateurs de contenu auront des obligations de pluralisme dans leur traitement de l’élection",
+      "url": "https://www.lemonde.fr/economie/article/2026/11/19/presidentielle-2027-les-createurs-de-contenu-auront-des-obligations-de-pluralisme-dans-leur-traitement-de-l-election_6813376_3234.html",
+      "snippet": "L’Autorité de régulation de la communication audiovisuelle et numérique a annoncé, jeudi 19 novembre, que les influenceurs et podcasteurs qui reçoivent des personnalités politiques devront, comme les télévisions et les …",
+      "date": "2026-11-19T19:30:08.000Z"
+    },
+    {
+      "id": "franceinfo:https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html#xtor=RSS-3-%5Bpolitique%5D",
+      "source": "franceinfo",
+      "sourceName": "France Info",
+      "title": "Présomption de légitime défense pour les forces de l'ordre : \"Ce texte, au mieux, est inutile, au pire, il est dangereux\", estime Harold Huwart, maire DVG d'Eure-et-Loir",
+      "url": "https://www.franceinfo.fr/politique/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-ce-texte-au-mieux-est-inutile-au-pire-il-est-dangereux-estime-harold-huwart-maire-dvg-d-eure-et-loir_8290574.html#xtor=RSS-3-%5Bpolitique%5D",
+      "snippet": "L'ancien député et maire de Nogent-le-Rotrou (Divers gauche) explique dans le \"Duel\" du 19 novembre pourquoi il n'a pas voté le texte sur la présomption d'innocence des policiers et gendarmes en cas d'usage de leur …",
+      "date": "2026-11-19T19:15:10.000Z"
+    },
+    {
+      "id": "liberation:https://www.liberation.fr/politique/david-habib-depute-des-pyrenees-atlantiques-meurt-a-65-ans-20261119_MNFSZ5HHXJBV5FI6XT6RB5EQYM/",
+      "source": "liberation",
+      "sourceName": "Libération",
+      "title": "David Habib, député des Pyrénées-Atlantiques, meurt subitement à 65 ans",
+      "url": "https://www.liberation.fr/politique/david-habib-depute-des-pyrenees-atlantiques-meurt-a-65-ans-20261119_MNFSZ5HHXJBV5FI6XT6RB5EQYM/",
+      "snippet": "La présidente de l’Assemblée nationale a annoncé ce jeudi la mort dans la nuit de l’ancien socialiste qui siégeait au sein du groupe indépendant Liot. Dans l’hémicycle, les élus ont observé une minute de silence.",
+      "date": "2026-11-19T19:08:56.000Z"
+    },
+    {
+      "id": "lemonde:https://www.lemonde.fr/societe/article/2026/11/19/encadrement-des-loyers-malgre-l-obstruction-systematique-du-rn-la-prolongation-du-dispositif-adoptee-a-l-assemblee-nationale_6813374_3224.html",
+      "source": "lemonde",
+      "sourceName": "Le Monde",
+      "title": "Encadrement des loyers : malgré l’obstruction systématique du RN, la prolongation du dispositif adoptée à l’Assemblée nationale",
+      "url": "https://www.lemonde.fr/societe/article/2026/11/19/encadrement-des-loyers-malgre-l-obstruction-systematique-du-rn-la-prolongation-du-dispositif-adoptee-a-l-assemblee-nationale_6813374_3224.html",
+      "snippet": "Les députés d’extrême droite ont multiplié les amendements pour tenter d’empêcher l’adoption de la proposition de loi portée par le député socialiste Iñaki Echaniz. Le ministre du logement a finalement eu recours à …",
+      "date": "2026-11-19T19:03:14.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/presidentielle-2027-pres-de-cinq-ans-apres-l-invasion-russe-l-effet-drapeau-disparu-de-la-guerre-en-ukraine-20261119",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Présidentielle 2027 : près de cinq ans après l’invasion russe, l’« effet drapeau » disparu de la guerre en Ukraine",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-pres-de-cinq-ans-apres-l-invasion-russe-l-effet-drapeau-disparu-de-la-guerre-en-ukraine-20261119",
+      "snippet": "DÉCRYPTAGE - Menacés d’être exclus du second tour de la présidentielle, les candidats pro-européens tentent de remettre le dossier ukrainien dans le débat public.",
+      "date": "2026-11-19T18:00:00.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/passe-d-armes-entre-lfi-et-la-prefecture-de-l-oise-autour-du-port-d-une-echarpe-tricolore-20261118",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "«Ni sexisme, ni politique, ni impérialisme, simple application de la loi» : passe d’armes entre LFI et la préfecture de l’Oise autour d’une écharpe tricolore",
+      "url": "https://www.lefigaro.fr/politique/passe-d-armes-entre-lfi-et-la-prefecture-de-l-oise-autour-du-port-d-une-echarpe-tricolore-20261118",
+      "snippet": "DÉCRYPTAGE - Rappelée à l’ordre par le préfet de l’Oise sur le port non conventionnel d’une écharpe tricolore en manifestation, Marianne Seck persiste avec le soutien de Jean-Luc Mélenchon. L’élue LFI a pourtant tous …",
+      "date": "2026-11-19T08:56:50.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/elections/presidentielles/gta-vi-bardella-ciotti-zemmour-entre-attente-et-detournement-les-politiques-aussi-guettent-la-sortie-du-jeu-video-20261118",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "GTA 6 : Bardella, Ciotti, Zemmour… Entre attente et détournement, les politiques aussi guettent la sortie du jeu vidéo",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/gta-vi-bardella-ciotti-zemmour-entre-attente-et-detournement-les-politiques-aussi-guettent-la-sortie-du-jeu-video-20261118",
+      "snippet": "À quelques heures de la sortie de GTA VI en France, les politiques tentent de tirer parti de la notoriété du jeu vidéo le plus cher de l’histoire, entre signe appuyé à l’univers du sixième volet et parodie.",
+      "date": "2026-11-18T18:36:46.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Présidentielle 2027 : face à Marine Le Pen, Jean-Luc Mélenchon gagnera l’élection, assure Darmanin",
+      "url": "https://www.lefigaro.fr/politique/presidentielle-2027-face-a-marine-le-pen-jean-luc-melenchon-gagnera-l-election-assure-darmanin-20261118",
+      "snippet": "Soutien d’Édouard Philippe, le ministre de la Justice a appelé Bruno Retailleau et Gabriel Attal à se désister en faveur du candidat Horizons, sans passer par une primaire, afin d’empêcher le patron de LFI d’accéder au …",
+      "date": "2026-11-18T09:28:37.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Guillaume Tabard : «Marine Le Pen sous le totem des 62 ans, un tournant bienvenu»",
+      "url": "https://www.lefigaro.fr/politique/guillaume-tabard-marine-le-pen-sous-le-totem-des-62-ans-un-tournant-bienvenu-20261117",
+      "snippet": "CONTRE-POINT - Au fil des ans, le Rassemblement national poursuit sa mue économique. Dans cette campagne, la candidate à la présidentielle a désormais pour premier souci la crédibilité.",
+      "date": "2026-11-18T09:04:43.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/elections/presidentielles/je-suis-un-pur-produit-francais-le-candidat-teddy-riner-s-offre-un-premier-bain-de-foule-au-salon-du-made-in-france-a-paris-20261114",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "«Je suis un pur produit français» : le candidat Teddy Riner s’offre un premier bain de foule au salon du Made in France à Paris",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/je-suis-un-pur-produit-francais-le-candidat-teddy-riner-s-offre-un-premier-bain-de-foule-au-salon-du-made-in-france-a-paris-20261114",
+      "snippet": "REPORTAGE - Pour son deuxième déplacement de campagne, Teddy Riner a arpenté pendant plus de trois heures les allées du salon du Made in France, à Paris.",
+      "date": "2026-11-14T20:55:06.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/je-cherche-la-pate-humaine-catherine-nay-l-indetronable-romanciere-du-pouvoir-20261114",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "« Je cherche la pâte humaine » : Catherine Nay, l’indétrônable romancière du pouvoir",
+      "url": "https://www.lefigaro.fr/politique/je-cherche-la-pate-humaine-catherine-nay-l-indetronable-romanciere-du-pouvoir-20261114",
+      "snippet": "PORTRAIT - La grande voix d’Europe 1 poursuit son exploration des passions du pouvoir avec un livre consacré à Emmanuel Macron, Ce pays dont le prince est un enfant (Plon). Derrière l’allure souveraine et les traits …",
+      "date": "2026-11-14T18:25:06.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "À peine arrivé, l’ex-ministre de la Santé François Braun quitte la campagne de Teddy Riner",
+      "url": "https://www.lefigaro.fr/politique/a-peine-arrive-l-ex-ministre-de-la-sante-francois-braun-quitte-la-campagne-de-teddy-riner-20261114",
+      "snippet": "Il était présenté comme une figure crédible, donnant du poids à celle du champion de judo. Six jours après le lancement de la campagne du candidat ni de droite ni de gauche, l’ex-ministre du gouvernement Borne quitte le …",
+      "date": "2026-11-14T10:44:31.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/17-octobre-primaire-a-droite-cnews-le-grand-entretien-de-nicolas-sarkozy-au-figaro-20261113",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "17 octobre, primaire à droite, CNews… Le grand entretien de Nicolas Sarkozy au Figaro",
+      "url": "https://www.lefigaro.fr/politique/17-octobre-primaire-a-droite-cnews-le-grand-entretien-de-nicolas-sarkozy-au-figaro-20261113",
+      "snippet": "ENTRETIEN EXCLUSIF - Inquiet du « sentiment inédit d’impuissance de l’État » face aux émeutes, l’ancien président n’exclut pas le « tsunami » d’une crise financière avant la présidentielle. Il appelle par ailleurs son …",
+      "date": "2026-11-13T16:47:34.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/budget-2027-apres-un-passage-chaotique-a-l-assemblee-les-senateurs-prennent-le-relais-20261110",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Budget 2027 : après un passage chaotique à l’Assemblée, les sénateurs prennent le relais",
+      "url": "https://www.lefigaro.fr/politique/budget-2027-apres-un-passage-chaotique-a-l-assemblee-les-senateurs-prennent-le-relais-20261110",
+      "snippet": "DÉCRYPTAGE - Après que l’Assemblée a unanimement rejeté le texte budgétaire pour la première fois de l’histoire de la Ve République, le Sénat va à son tour se saisir du texte.",
+      "date": "2026-11-12T13:57:38.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/guillaume-tabard-zemmour-a-la-recherche-d-une-nouvelle-utilite-politique-20261111",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Guillaume Tabard : « Zemmour à la recherche d’une nouvelle utilité politique »",
+      "url": "https://www.lefigaro.fr/politique/guillaume-tabard-zemmour-a-la-recherche-d-une-nouvelle-utilite-politique-20261111",
+      "snippet": "CONTRE-POINT - Pour sa deuxième candidature à l’élection présidentielle, le patron de Reconquête ne peut plus jouer du même effet de surprise, de nouveauté ou de transgression.",
+      "date": "2026-11-12T06:25:42.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/le-pen-a-henin-beaumont-melenchon-dans-la-creuse-le-match-a-distance-sur-fond-de-commemorations-20261111",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Le Pen à Hénin-Beaumont, Mélenchon dans la Creuse : le match à distance sur fond de commémorations",
+      "url": "https://www.lefigaro.fr/politique/le-pen-a-henin-beaumont-melenchon-dans-la-creuse-le-match-a-distance-sur-fond-de-commemorations-20261111",
+      "snippet": "Lors de leurs discours à l’occasion des commémorations du 11 Novembre, les deux candidats à l’élection présidentielle ont adressé de nombreux messages politiques, dans un style radicalement opposé.",
+      "date": "2026-11-11T18:06:16.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Bruno Retailleau : « Il est hors de question que j’utilise ma famille pour me mettre en avant »",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/bruno-retailleau-il-est-hors-de-question-que-j-utilise-ma-famille-pour-me-mettre-en-avant-20261111",
+      "snippet": "ENTRETIEN.- Invité d’« Empreintes », l’émission du Figaro, Bruno Retailleau se confie sur les êtres et les lieux qui l’ont façonné. De son enfance vendéenne à sa rupture avec Philippe de Villiers, de sa foi à sa volonté …",
+      "date": "2026-11-11T16:39:58.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Pétition contre CNews : quelles suites possibles à l’Assemblée nationale ?",
+      "url": "https://www.lefigaro.fr/medias/petition-contre-cnews-quelles-suites-possibles-a-l-assemblee-nationale-20261109",
+      "snippet": "La pétition demandant la fermeture de la chaîne, qui a recueilli plus d’un million de signatures, sera examinée en commission des affaires culturelles et de l’éducation mardi 10 novembre à 13 heures.",
+      "date": "2026-11-10T11:05:20.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/politique/a-l-assemblee-nationale-deux-geeks-macronistes-ont-developpe-un-simulateur-de-majorite-en-temps-reel-20261110",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "À l’Assemblée nationale, deux geeks macronistes ont développé un simulateur de majorité en temps réel",
+      "url": "https://www.lefigaro.fr/politique/a-l-assemblee-nationale-deux-geeks-macronistes-ont-developpe-un-simulateur-de-majorite-en-temps-reel-20261110",
+      "snippet": "DÉCRYPTAGE - Depuis quelques semaines, le widget est utilisé par les cadres du camp présidentiel pour savoir quand mobiliser les députés en séance.",
+      "date": "2026-11-10T10:15:44.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Jean-Luc Mélenchon, douze ans de sorties polémiques sur la guerre en Ukraine et la Russie",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/jean-luc-melenchon-douze-ans-de-sorties-polemiques-sur-la-guerre-en-ukraine-et-la-russie-20261109",
+      "snippet": "DÉCRYPTAGE - Depuis l’annexion de la Crimée en 2014, les positions de Jean-Luc Mélenchon sur le conflit lui valent des accusations de complaisance envers Moscou. Ses récents propos sur le Donbass ont ravivé les …",
+      "date": "2026-11-10T07:13:32.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/elections/presidentielles/se-faire-passer-pour-l-arbitre-des-elegances-laurent-wauquiez-et-la-strategie-d-attente-20261109",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "« Se faire passer pour l’arbitre des élégances » : Laurent Wauquiez et la stratégie d’attente",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/se-faire-passer-pour-l-arbitre-des-elegances-laurent-wauquiez-et-la-strategie-d-attente-20261109",
+      "snippet": "DÉCRYPTAGE - Le député de Haute-Loire exhorte les prétendants à l’Élysée issus de la droite et du centre à s’entendre sur une « méthode » en vue d’une « candidature unique » avant Noël.",
+      "date": "2026-11-09T18:04:00.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/elections/presidentielles/ca-bouscule-un-peu-la-campagne-candidat-a-la-presidentielle-teddy-riner-peut-il-transformer-sa-popularite-en-bulletins-de-vote-20261109",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "«Ça bouscule un peu la campagne» : candidat à la présidentielle, Teddy Riner peut-il transformer sa popularité en bulletins de vote ?",
+      "url": "https://www.lefigaro.fr/elections/presidentielles/ca-bouscule-un-peu-la-campagne-candidat-a-la-presidentielle-teddy-riner-peut-il-transformer-sa-popularite-en-bulletins-de-vote-20261109",
+      "snippet": "Bénéficiant d’un fort capital sympathie auprès des Français, le judoka peut-il convertir sa popularité en intentions de vote ? Les sondeurs affichent leur prudence.",
+      "date": "2026-11-09T16:47:53.000Z"
+    },
+    {
+      "id": "figaro:https://www.lefigaro.fr/culture/christophe-lecourtier-l-homme-de-la-reconciliation-franco-marocaine-20261109",
+      "source": "figaro",
+      "sourceName": "Le Figaro",
+      "title": "Christophe Lecourtier, l’homme de la réconciliation franco-marocaine",
+      "url": "https://www.lefigaro.fr/culture/christophe-lecourtier-l-homme-de-la-reconciliation-franco-marocaine-20261109",
+      "snippet": "PORTRAIT - Ce diplomate a joué un rôle essentiel entre Paris et Rabat. Il recentre aujourd’hui les missions de l’Agence française de développement, dont il est à la tête depuis le mois de mai dernier.",
+      "date": "2026-11-09T12:00:00.000Z"
+    }
+  ]
+}
