@@ -1,10 +1,19 @@
 # Politico Actu
 
-Suivi sobre de l'actualité politique française : agrège les rubriques « Politique »
-des grands médias français (Le Monde, Le Figaro, Libération, France Info,
-BFM Politique, Sud Ouest) et les présente dans un fil unique, groupé par jour,
-filtrable par source et par thème (Exécutif, Parlement, Élections & sondages,
-Partis, Europe).
+Suivi sobre de l'actualité politique française : agrège UNIQUEMENT les rubriques « Politique »
+de rédactions professionnelles de référence (Le Monde, Le Figaro, Libération, France Info,
+Sud Ouest) et les présente dans un fil unique, groupé par jour, filtrable par source
+et par thème (Exécutif, Parlement, Élections & sondages, Partis, Europe).
+
+## Politique de sourcement
+
+- Uniquement des médias de référence : rédactions professionnelles, signataires
+  de chartes de déontologie journalistique, fondées sur le recoupement des
+  sources et la correction publique des erreurs.
+- Ne sont PAS agrégés : sites militants, médias complotistes ou relayant
+  majoritairement de la désinformation, chaînes d'info-spectacle, agrégateurs
+  non sourcés.
+- Chaque article renvoie à sa source originale (lien, date, rédaction).
 
 ## Fonctionnement
 

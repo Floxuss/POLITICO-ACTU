@@ -51,7 +51,6 @@ const FALLBACK_SOURCE_NAMES = {
   figaro: "Le Figaro",
   liberation: "Libération",
   franceinfo: "France Info",
-  bfmtv: "BFM Politique",
   sudouest: "Sud Ouest",
 };
 
