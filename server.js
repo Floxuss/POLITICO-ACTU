@@ -33,12 +33,6 @@ const SOURCES = [
     site: "https://www.francetvinfo.fr/politique/",
   },
   {
-    id: "bfmtv",
-    name: "BFM Politique",
-    feed: "https://www.bfmtv.com/rss/politique/",
-    site: "https://www.bfmtv.com/politique/",
-  },
-  {
     id: "sudouest",
     name: "Sud Ouest",
     feed: "https://www.sudouest.fr/politique/rss.xml",
